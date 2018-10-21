@@ -1,4 +1,4 @@
-package server.core.system;
+package server.system;
 
 /**
  * A system resource value gettable through the OSMBean
